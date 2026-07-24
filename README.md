@@ -5,7 +5,7 @@
 # Hi there, I'm Hamza Aziz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hamzaziizzz&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaziizzz" />
+  <img src="https://komarev.com/ghpvc/?username=hamza-aziz-ai&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-aziz-ai" />
 </p>
 
 ### AI Product Engineer · LLM Apps · Voice Agents · Computer Vision
@@ -13,7 +13,7 @@
 I build production-grade AI systems end-to-end — from on-device facial recognition pipelines to agentic, real-time voice ordering platforms and full-stack LLM applications.
 
 - 💼 Currently shipping a multi-tenant DriveThru voice ordering agent at **[VoicePlug Inc.](https://voiceplug.ai/)** &mdash; FastAPI + Socket.IO with a LangGraph (ReAct) agent over Google Gemini.
-- 🧪 Building **[HalalLens](https://github.com/hamzaziizzz/HalalLens)** in the open &mdash; a full-stack Shariah-compliance research copilot (FastAPI + Next.js + PostgreSQL, vLLM/OpenAI-compatible narrator, AAOIFI ratio engine, BSE/NSE crawlers).
+- 🧪 Building **[HalalLens](https://github.com/hamza-aziz-ai/HalalLens)** in the open &mdash; a full-stack Shariah-compliance research copilot (FastAPI + Next.js + PostgreSQL, vLLM/OpenAI-compatible narrator, AAOIFI ratio engine, BSE/NSE crawlers).
 - 🎓 Pursuing **M.Tech (Executive) in AI &amp; ML** at **BITS Pilani (WILP)** &mdash; 2025 to 2027.
 - 🛠️ Earlier: 4 production facial-recognition platforms on DGX A100 / Jetson Orin Nano (>99.99% accuracy) and a Rasa-based voice-to-SQL assistant for college ERPs.
 - ✍️ Writing on **[Medium](https://medium.com/@hamzaziizzz)** about applied LLMs, computer vision, and edge AI.
@@ -21,9 +21,9 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
 ### Connect with me
 
 <p align="left">
-  <a href="https://hamzaziizzz.github.io/" target="_blank"><img src="./img/globe.svg" height="32" alt="Portfolio" /></a>
+  <a href="https://hamza-aziz-ai.github.io/" target="_blank"><img src="./img/globe.svg" height="32" alt="Portfolio" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hamzaziizzz/" target="_blank"><img src="./img/linkedin.svg" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hamza-aziz-ai/" target="_blank"><img src="./img/linkedin.svg" height="32" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/hamzaziizzz" target="_blank"><img src="./img/twitter.svg" height="32" alt="Twitter / X" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,12 +96,12 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
 
 | Project | Stack | What it does |
 |---|---|---|
-| **[HalalLens](https://github.com/hamzaziizzz/HalalLens)** | FastAPI · Next.js 14 · PostgreSQL · vLLM · Docker | Full-stack Shariah-compliance research copilot for Indian equities &mdash; AAOIFI ratio engine + dual-mode "Explain Why" narrator (rule-based + LLM, citation-grounded). |
-| **[business-rag-agent](https://github.com/hamzaziizzz/business-rag-agent)** | LangChain · RAG · LLM | Production-grade custom AI agent for business knowledge retrieval. |
-| **[voice-to-sql-ai-assistant](https://github.com/hamzaziizzz/voice-to-sql-ai-assistant)** | Rasa · Gemini · Milvus | Voice/text assistant that converts natural language into precise SQL queries against an ERP. |
-| **[ai-face-attendance-system](https://github.com/hamzaziizzz/ai-face-attendance-system)** | InsightFace · TensorRT · Milvus · CCTV | Multi-camera, multi-person face recognition attendance platform with anti-spoofing. |
-| **[Cold-Email-Generator](https://github.com/hamzaziizzz/Cold-Email-Generator)** | LangChain · Streamlit · Llama 3 | Personalised cold email generator powered by job-page scraping + LLM. |
-| **[Build-LLM-from-Scratch](https://github.com/hamzaziizzz/Build-LLM-from-Scratch)** | PyTorch · Transformers | Hands-on implementation of a transformer language model from first principles. |
+| **[HalalLens](https://github.com/hamza-aziz-ai/HalalLens)** | FastAPI · Next.js 14 · PostgreSQL · vLLM · Docker | Full-stack Shariah-compliance research copilot for Indian equities &mdash; AAOIFI ratio engine + dual-mode "Explain Why" narrator (rule-based + LLM, citation-grounded). |
+| **[business-rag-agent](https://github.com/hamza-aziz-ai/business-rag-agent)** | LangChain · RAG · LLM | Production-grade custom AI agent for business knowledge retrieval. |
+| **[voice-to-sql-ai-assistant](https://github.com/hamza-aziz-ai/voice-to-sql-ai-assistant)** | Rasa · Gemini · Milvus | Voice/text assistant that converts natural language into precise SQL queries against an ERP. |
+| **[ai-face-attendance-system](https://github.com/hamza-aziz-ai/ai-face-attendance-system)** | InsightFace · TensorRT · Milvus · CCTV | Multi-camera, multi-person face recognition attendance platform with anti-spoofing. |
+| **[Cold-Email-Generator](https://github.com/hamza-aziz-ai/Cold-Email-Generator)** | LangChain · Streamlit · Llama 3 | Personalised cold email generator powered by job-page scraping + LLM. |
+| **[Build-LLM-from-Scratch](https://github.com/hamza-aziz-ai/Build-LLM-from-Scratch)** | PyTorch · Transformers | Hands-on implementation of a transformer language model from first principles. |
 
 ---
 
@@ -125,12 +125,12 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
   separate streak widget would only duplicate it.
 -->
 <p align="center">
-  <a href="https://github.com/hamzaziizzz">
-    <img src="github-metrics.svg" alt="GitHub metrics for @hamzaziizzz" />
+  <a href="https://github.com/hamza-aziz-ai">
+    <img src="github-metrics.svg" alt="GitHub metrics for @hamza-aziz-ai" />
   </a>
 </p>
 
 ---
 
 ## Holopin Board
-[![@hamzaziizzz's Holopin board](https://holopin.io/api/user/board?user=hamzaziizzz)](https://holopin.io/@hamzaziizzz)
+[![@hamza-aziz-ai's Holopin board](https://holopin.io/api/user/board?user=hamza-aziz-ai)](https://holopin.io/@hamza-aziz-ai)
