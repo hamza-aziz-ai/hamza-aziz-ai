@@ -133,4 +133,4 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
 ---
 
 ## Holopin Board
-[![@hamza-aziz-ai's Holopin board](https://holopin.io/api/user/board?user=hamza-aziz-ai)](https://holopin.io/@hamza-aziz-ai)
+[![@hamzaziizzz's Holopin board](https://holopin.io/api/user/board?user=hamzaziizzz)](https://holopin.io/@hamzaziizzz)
