@@ -38,7 +38,7 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN || github.token }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: hamzaziizzz
+          user: hamza-aziz-ai
           template: classic
           base: header, activity, community, repositories
           base_indepth: yes
