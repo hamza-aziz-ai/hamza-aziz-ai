@@ -13,7 +13,7 @@
 I build AI systems end to end, from multi-camera face recognition on NVIDIA GPUs to real-time LLM voice agents. 3+ years full time.
 
 - 💼 **AI Product Engineer at [VoicePlug Inc.](https://voiceplug.ai/)** (Sep 2025 – present): a multi-tenant drive-thru voice ordering agent. FastAPI + Socket.IO real-time service orchestrating Google Gemini (Vertex AI), with a prompt-cached order agent, a structured-output cart builder and deterministic guardrails, integrated with restaurant POS systems. Rebuilt it from a Rasa intent-and-forms bot into this LLM-first design.
-- 🛠️ **Earlier at Global InfoVentures** (2023 – 2025): developed a CCTV face-recognition attendance system (InsightFace-REST + Milvus, 20+ live streams, >99.99% accuracy against the attendance register in library-gate UAT), delivered as CCTV, PTZ and edge variants across DGX A100, RTX 4090 and Jetson Orin Nano; and led G6, a voice ERP assistant for 4 institutes (Rasa routing, Milvus schema retrieval, Gemini).
+- 🛠️ **Earlier at Global InfoVentures** (2023 – 2025): solo developer of a CCTV face-recognition attendance system (InsightFace-REST + Milvus, 20+ live streams, >99.99% accuracy against the attendance register in library-gate UAT), delivered as CCTV, PTZ and edge variants across DGX A100, RTX 4090 and Jetson Orin Nano; and led G6, a voice ERP assistant for 4 institutes (Rasa routing, Milvus schema retrieval, Gemini).
 - 🧩 **Open source:** [codex-claude-council](https://github.com/hamza-aziz-ai/codex-claude-council), a plugin where ChatGPT and Claude discuss until they agree. 1,482 npm downloads in the last month.
 - 🎓 **M.Tech (Executive) in AI &amp; ML**, BITS Pilani WILP (2025 – 2027, in progress). B.Tech CSE, ABES Institute of Technology (2019 – 2023).
 - ✍️ Writing on **[Medium](https://medium.com/@hamzaziizzz)** about applied AI, computer vision and edge AI.
@@ -107,10 +107,10 @@ I build AI systems end to end, from multi-camera face recognition on NVIDIA GPUs
 
 | Project | Stack | What it does |
 |---|---|---|
-| **CCTV face-recognition attendance** | InsightFace-REST (TensorRT) · Milvus · PostgreSQL · Kafka | RTSP streams from 27 cameras across 2 campus sites, recognised on NVIDIA MIG, with ERP sync and live displays. Sole developer. |
+| **CCTV face-recognition attendance** | InsightFace-REST (TensorRT) · Milvus · PostgreSQL · Kafka | RTSP streams from 27 cameras across 2 campus sites, recognised on NVIDIA MIG, with ERP sync and live displays. Solo developer. |
 | **PTZ classroom attendance** | ONVIF · InsightFace · Milvus · YOLOv9 · FastAPI | Lecture-wise attendance from one PTZ camera per room: preset sweeps, face matching, YOLOv9 headcount and ERP sync every 5 minutes. |
 | **G6 voice ERP assistant** | Rasa 3 · Milvus · Gemini · FastAPI | Voice or text questions about a college ERP: Rasa routes to the module, Milvus retrieves schema fields, Gemini writes the fields and filters, and the answer is spoken back. |
-| **PPE violation detection** | YOLOv7 · Flask · Gmail API | Lab prototype with Anubhav Patrick that flags missing helmets or safety jackets in video and emails snapshot alerts. |
+| **PPE violation detection** | YOLOv7 · Flask · Gmail API | Lab prototype that flags missing helmets or safety jackets in video and emails snapshot alerts. |
 
 ---
 
