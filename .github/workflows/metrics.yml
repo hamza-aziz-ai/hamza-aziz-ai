@@ -40,7 +40,10 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: hamza-aziz-ai
           template: classic
-          base: header, activity, community, repositories
+          # "repositories" is left out: with only GITHUB_TOKEN it sees just this
+          # repo and renders "1 Repository, 0 Stargazers". Add it back once a
+          # METRICS_TOKEN secret is configured.
+          base: header, activity, community
           base_indepth: yes
           config_timezone: Asia/Kolkata
           # Plugins below are intentionally limited to the ones that render
