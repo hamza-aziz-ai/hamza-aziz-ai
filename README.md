@@ -8,20 +8,20 @@
   <img src="https://komarev.com/ghpvc/?username=hamza-aziz-ai&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-aziz-ai" />
 </p>
 
-### AI Product Engineer · LLM Apps · Voice Agents · Computer Vision
+### AI Engineer · Generative AI · Voice Agents · Computer Vision
 
-I build production-grade AI systems end-to-end — from on-device facial recognition pipelines to agentic, real-time voice ordering platforms and full-stack LLM applications.
+I build AI systems end to end, from multi-camera face recognition on NVIDIA GPUs to real-time LLM voice agents. 3+ years full time.
 
-- 💼 Currently shipping a multi-tenant DriveThru voice ordering agent at **[VoicePlug Inc.](https://voiceplug.ai/)** &mdash; FastAPI + Socket.IO with a LangGraph (ReAct) agent over Google Gemini.
-- 🧪 Building **[HalalLens](https://github.com/hamza-aziz-ai/HalalLens)** in the open &mdash; a full-stack Shariah-compliance research copilot (FastAPI + Next.js + PostgreSQL, vLLM/OpenAI-compatible narrator, AAOIFI ratio engine, BSE/NSE crawlers).
-- 🎓 Pursuing **M.Tech (Executive) in AI &amp; ML** at **BITS Pilani (WILP)** &mdash; 2025 to 2027.
-- 🛠️ Earlier: 4 production facial-recognition platforms on DGX A100 / Jetson Orin Nano (>99.99% accuracy) and a Rasa-based voice-to-SQL assistant for college ERPs.
-- ✍️ Writing on **[Medium](https://medium.com/@hamzaziizzz)** about applied LLMs, computer vision, and edge AI.
+- 💼 **AI Product Engineer at [VoicePlug Inc.](https://voiceplug.ai/)** (Sep 2025 – present): a multi-tenant drive-thru voice ordering agent. FastAPI + Socket.IO real-time service orchestrating Google Gemini (Vertex AI), with a prompt-cached order agent, a structured-output cart builder and deterministic guardrails, integrated with restaurant POS systems. Rebuilt it from a Rasa intent-and-forms bot into this LLM-first design.
+- 🛠️ **Earlier at Global InfoVentures** (2023 – 2025): developed a CCTV face-recognition attendance system (InsightFace-REST + Milvus, 20+ live streams, >99.99% accuracy against the attendance register in library-gate UAT), delivered as CCTV, PTZ and edge variants across DGX A100, RTX 4090 and Jetson Orin Nano; and led G6, a voice ERP assistant for 4 institutes (Rasa routing, Milvus schema retrieval, Gemini).
+- 🧩 **Open source:** [codex-claude-council](https://github.com/hamza-aziz-ai/codex-claude-council), a plugin where ChatGPT and Claude discuss until they agree. 1,482 npm downloads in the last month.
+- 🎓 **M.Tech (Executive) in AI &amp; ML**, BITS Pilani WILP (2025 – 2027, in progress). B.Tech CSE, ABES Institute of Technology (2019 – 2023).
+- ✍️ Writing on **[Medium](https://medium.com/@hamzaziizzz)** about applied AI, computer vision and edge AI.
 
 ### Connect with me
 
 <p align="left">
-  <a href="https://hamza-aziz-ai.github.io/" target="_blank"><img src="./img/globe.svg" height="32" alt="Portfolio" /></a>
+  <a href="https://hamzaaziz.dev/" target="_blank"><img src="./img/globe.svg" height="32" alt="Portfolio" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hamza-aziz-ai/" target="_blank"><img src="./img/linkedin.svg" height="32" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,10 +47,8 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
 **LLM &amp; Generative AI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![Agentic AI (ReAct)](https://img.shields.io/badge/Agentic%20AI%20(ReAct)-6E40C9?style=flat)
-![Function Calling](https://img.shields.io/badge/Function%20Calling%20%2F%20Tool%20Use-6E40C9?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat&logo=rasa&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -94,14 +92,25 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
 
 ## 🌟 Featured projects
 
+**Open source**
+
 | Project | Stack | What it does |
 |---|---|---|
-| **[HalalLens](https://github.com/hamza-aziz-ai/HalalLens)** | FastAPI · Next.js 14 · PostgreSQL · vLLM · Docker | Full-stack Shariah-compliance research copilot for Indian equities &mdash; AAOIFI ratio engine + dual-mode "Explain Why" narrator (rule-based + LLM, citation-grounded). |
-| **[business-rag-agent](https://github.com/hamza-aziz-ai/business-rag-agent)** | LangChain · RAG · LLM | Production-grade custom AI agent for business knowledge retrieval. |
-| **[voice-to-sql-ai-assistant](https://github.com/hamza-aziz-ai/voice-to-sql-ai-assistant)** | Rasa · Gemini · Milvus | Voice/text assistant that converts natural language into precise SQL queries against an ERP. |
-| **[ai-face-attendance-system](https://github.com/hamza-aziz-ai/ai-face-attendance-system)** | InsightFace · TensorRT · Milvus · CCTV | Multi-camera, multi-person face recognition attendance platform with anti-spoofing. |
-| **[Cold-Email-Generator](https://github.com/hamza-aziz-ai/Cold-Email-Generator)** | LangChain · Streamlit · Llama 3 | Personalised cold email generator powered by job-page scraping + LLM. |
-| **[Build-LLM-from-Scratch](https://github.com/hamza-aziz-ai/Build-LLM-from-Scratch)** | PyTorch · Transformers | Hands-on implementation of a transformer language model from first principles. |
+| **[codex-claude-council](https://github.com/hamza-aziz-ai/codex-claude-council)** | Node.js · MCP · Codex CLI · Claude Code CLI | Runs ChatGPT and Claude as a two-model council: they reply to each other until they agree and return one answer. Uses your own signed-in subscriptions, read-only. `npx -y codex-claude-council install` |
+| **[HalalLens](https://github.com/hamza-aziz-ai/HalalLens)** | FastAPI · Next.js 14 · PostgreSQL · MinIO · Docker | Shariah-compliance screener for Indian equities: five AAOIFI-inspired ratio screens, a rule-based "Explain Why" narrator with an optional LLM mode, and BSE announcement ingestion. Paused. |
+| **[Clinic-Voice-Receptionist](https://github.com/hamza-aziz-ai/Clinic-Voice-Receptionist)** | Whisper · Piper / MMS · LLM | Multilingual voice receptionist for dental clinics (English, Tamil, Kannada, Malayalam, Hindi) with a confidence gate scored from the audio, so nothing books below threshold. |
+| **[AgencyOps-Orchestrator](https://github.com/hamza-aziz-ai/AgencyOps-Orchestrator)** | LangGraph · FastAPI · gpt-oss | Agentic workflows for a marketing agency: workflows propose external writes, a human releases them, and all arithmetic is tested Python, never the model. |
+| **[Dubai-Irrigation-Advisor](https://github.com/hamza-aziz-ai/Dubai-Irrigation-Advisor)** | Python · XGBoost · LSTM | Physics-first irrigation advisor: FAO-56 evapotranspiration checked against 30 years of NASA data, with models scored on operating cost in dirhams rather than prediction error. |
+| **[CrossLingual-IE-MT](https://github.com/hamza-aziz-ai/CrossLingual-IE-MT)** | NLLB-200 · Streamlit | English ↔ Hindi / Tamil / Marathi / Bengali translation with named-entity, relation and temporal-event extraction. |
+
+**Work projects** (employer or client code, so the repos are private)
+
+| Project | Stack | What it does |
+|---|---|---|
+| **CCTV face-recognition attendance** | InsightFace-REST (TensorRT) · Milvus · PostgreSQL · Kafka | RTSP streams from 27 cameras across 2 campus sites, recognised on NVIDIA MIG, with ERP sync and live displays. Sole developer. |
+| **PTZ classroom attendance** | ONVIF · InsightFace · Milvus · YOLOv9 · FastAPI | Lecture-wise attendance from one PTZ camera per room: preset sweeps, face matching, YOLOv9 headcount and ERP sync every 5 minutes. |
+| **G6 voice ERP assistant** | Rasa 3 · Milvus · Gemini · FastAPI | Voice or text questions about a college ERP: Rasa routes to the module, Milvus retrieves schema fields, Gemini writes the fields and filters, and the answer is spoken back. |
+| **PPE violation detection** | YOLOv7 · Flask · Gmail API | Lab prototype with Anubhav Patrick that flags missing helmets or safety jackets in video and emails snapshot alerts. |
 
 ---
 
