@@ -14,7 +14,7 @@ I build AI systems end to end, from multi-camera face recognition on NVIDIA GPUs
 
 - 💼 **AI Product Engineer at [VoicePlug Inc.](https://voiceplug.ai/)** (Sep 2025 – present): a multi-tenant drive-thru voice ordering agent. FastAPI + Socket.IO real-time service orchestrating Google Gemini (Vertex AI), with a prompt-cached order agent, a structured-output cart builder and deterministic guardrails, integrated with restaurant POS systems. Rebuilt it from a Rasa intent-and-forms bot into this LLM-first design.
 - 🛠️ **Earlier at Global InfoVentures** (2023 – 2025): solo developer of a CCTV face-recognition attendance system (InsightFace-REST + Milvus, 20+ live streams, >99.99% accuracy against the attendance register in controlled UAT at the main and library gates), delivered as CCTV, PTZ and edge variants across DGX A100, RTX 4090 and Jetson Orin Nano; and led G6, a voice ERP assistant for 4 institutes (Rasa routing, Milvus schema retrieval, Gemini).
-- 🧩 **Open source:** [codex-claude-council](https://github.com/hamza-aziz-ai/codex-claude-council), a plugin where ChatGPT and Claude discuss until they agree. Published on npm and listed on the MCP Registry and Smithery (Oct 2026).
+- 🧩 **Open source:** [codex-claude-council](https://github.com/hamza-aziz-ai/codex-claude-council), a plugin where ChatGPT and Claude discuss until they agree. Published on npm; listed in [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers), the MCP Registry and Smithery (Oct 2026).
 - 🎓 **M.Tech (Executive) in AI &amp; ML**, BITS Pilani WILP (2025 – 2027, in progress). B.Tech CSE, ABES Institute of Technology (2019 – 2023).
 - ✍️ Writing on **[Medium](https://medium.com/@hamzaziizzz)** about applied AI, computer vision and edge AI.
 
